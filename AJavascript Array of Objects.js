@@ -34,9 +34,9 @@ displayPoint(points);
 //Aþaðýdaki örnekte, deðerleri saklayan bir nesne oluþturuyoruz.
 //from  www.java2s.com
 function MyData() { 
-    this.dataStore = [];
-    this.add = add;
-    this.average = average;
+    this.dataStore = [];        //property 
+    this.add = add;             //function
+    this.average = average;     //function
 }
 
 function add(temp) {
