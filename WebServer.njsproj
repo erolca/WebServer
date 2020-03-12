@@ -41,6 +41,9 @@
     <Content Include="Functions.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Javascript List.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="package.json" />
     <Content Include="Page1.html">
       <SubType>Code</SubType>
