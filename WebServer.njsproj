@@ -11,7 +11,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dddefb60-49a7-4a01-bd61-a24628823d94</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Search\Minimum and Maximum Values.js</StartupFile>
+    <StartupFile>Object Properties.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -68,7 +68,22 @@
     <Content Include="Data Structure\Javascript Linked List.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Functions\Function Declarations.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="Javascript List.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Object Compare.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Object Literal.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="object method.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Object Properties.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="package.json" />
@@ -112,6 +127,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data Structure\" />
+    <Folder Include="Functions\" />
     <Folder Include="Search\" />
     <Folder Include="Sort\" />
   </ItemGroup>
