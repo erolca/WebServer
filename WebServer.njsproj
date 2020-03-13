@@ -11,7 +11,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dddefb60-49a7-4a01-bd61-a24628823d94</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Data Structure\Javascript  Stack.js</StartupFile>
+    <StartupFile>Search\Minimum and Maximum Values.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -76,12 +76,44 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="README.md" />
+    <Content Include="Search\Binary Search.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Search\Count Occurrences.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Search\Minimum and Maximum Values.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Search\Sequential Search.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="SetScript1.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Sort\Javascript Bubble Sort.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Sort\Javascript Insertion Sort.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Sort\Javascript Mergesort.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Sort\Javascript Quicksort.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Sort\Javascript Selection Sort.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Sort\Javascript Shell sort.js">
       <SubType>Code</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data Structure\" />
+    <Folder Include="Search\" />
+    <Folder Include="Sort\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
 </Project>
