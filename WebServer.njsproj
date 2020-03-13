@@ -11,7 +11,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dddefb60-49a7-4a01-bd61-a24628823d94</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Array1.js</StartupFile>
+    <StartupFile>Data Structure\Javascript  Stack.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -38,7 +38,34 @@
     <Content Include="arrays.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Data Structure\Javascript Binary Tree.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Javascript HashTable.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Javascript Queue.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Javascript list.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Javascript  Stack.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Doubly Linked Lists.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Javascript Set.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="Functions.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Javascript Dictionary.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Data Structure\Javascript Linked List.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="Javascript List.js">
@@ -49,6 +76,12 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="README.md" />
+    <Content Include="SetScript1.js">
+      <SubType>Code</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data Structure\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
 </Project>
