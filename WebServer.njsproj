@@ -11,7 +11,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>dddefb60-49a7-4a01-bd61-a24628823d94</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Object Properties.js</StartupFile>
+    <StartupFile>Javascript Module Pattern.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -38,6 +38,36 @@
     <Content Include="arrays.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Class\Constructors.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Enumeration.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Freezing Objects.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\JavaScript1.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Multiple Properties.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Property attributes.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Property type.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Prototypes with Constructor.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Removing Properties.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\Sealing Objects.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="Data Structure\Javascript Binary Tree.js">
       <SubType>Code</SubType>
     </Content>
@@ -59,7 +89,13 @@
     <Content Include="Data Structure\Javascript Set.js">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="Functions.js">
+    <Content Include="Class\Defining Properties.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Class\detecting Properties.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Functions\Functions.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="Data Structure\Javascript Dictionary.js">
@@ -68,26 +104,47 @@
     <Content Include="Data Structure\Javascript Linked List.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Functions\Example.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="Functions\Function Declarations.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Functions\object methods.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Functions\Overloading.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Functions\The this Object.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="Javascript List.js">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="Object Compare.js">
+    <Content Include="Class\Object Compare.js">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="Object Literal.js">
+    <Content Include="Class\Object Literal.js">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="object method.js">
+    <Content Include="Class\object method.js">
       <SubType>Code</SubType>
     </Content>
-    <Content Include="Object Properties.js">
+    <Content Include="Class\Object Properties.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Javascript Module Pattern.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Module Pattern.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="package.json" />
     <Content Include="Page1.html">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Private Members for Constructors.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="README.md" />
@@ -128,6 +185,7 @@
   <ItemGroup>
     <Folder Include="Data Structure\" />
     <Folder Include="Functions\" />
+    <Folder Include="Class\" />
     <Folder Include="Search\" />
     <Folder Include="Sort\" />
   </ItemGroup>
